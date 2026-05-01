@@ -18,13 +18,6 @@ const projects = [
         image: "/projects/qurani.png",
     },
     {
-        name: "BIEE",
-        description: "Modern landing page focused on personal stories and sleek aesthetics.",
-        techStack: ["Next.js", "TailwindCSS", "shadcn/ui"],
-        liveDemo: "https://biee.vercel.app/",
-        image: "/projects/biee.png",
-    },
-    {
         name: "Biblioteca",
         description: "Digital library system for modern book collection management.",
         techStack: ["Next.js", "TailwindCSS"],
